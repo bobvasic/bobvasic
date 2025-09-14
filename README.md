@@ -34,7 +34,7 @@
 
 ---
 
-## 🔥 **Elite Cybersecurity Arsenal & Professional Certifications**
+## 🔥 **Cybersecurity Arsenal & Professional Certifications**
 
 <details>
 <summary><b>🛡️ Advanced Security Certification Matrix</b></summary>
