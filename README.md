@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1 align="center">🔐 Digital Security Innovator & Web3 Pioneer</h1>
@@ -90,7 +91,7 @@
 
 ---
 
-## 💻 **Advanced Technical Mastery Matrix**
+## 💻 **Technical Mastery Matrix**
 
 <div align="center">
 
@@ -253,7 +254,10 @@
 <img src="https://img.shields.io/badge/Users-1000%2B-FF6B00?style=for-the-badge&logo=users&logoColor=white" alt="Users">
 <br>
 <img src="https://img.shields.io/badge/Blockchain-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
-
+<br>
+<a href="https://solmint.dev">
+<img src="https://img.shields.io/badge/Visit-solmint.dev-0066CC?style=for-the-badge&logo=firefox&logoColor=white" alt="Website">
+</a>
 </td>
 </tr>
 </table>
@@ -270,7 +274,7 @@
 - **Infrastructure Protection** - Cloud-native security architecture & endpoint protection
 - **Security Operations Center** - Managed security services & forensic investigation
 
-**SolMint Web3 Platform**
+**SolMint Web3 Platform (solmint.dev)**
 - **Blockchain Democratization** - No-code SPL token deployment on Solana
 - **DeFi Innovation** - Advanced smart contract security & tokenomics optimization
 - **International Adoption** - 25+ countries, multilingual support infrastructure
@@ -382,39 +386,6 @@
 
 ---
 
-## 🤝 **Professional Network & Technology Community Leadership**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<a href="https://linkedin.com/in/bobvasic">
-<img src="https://img.shields.io/badge/LinkedIn-500%2B%20Connections-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<br><b>Professional Network</b>
-</td>
-<td align="center" width="20%">
-<a href="https://g.dev/bojanvasic">
-<img src="https://img.shields.io/badge/Google%20Developers-Active%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers">
-</a>
-<br><b>Technology Innovation</b>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Google%20Innovators-Member-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Innovators">
-<br><b>Innovation Program</b>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Conferences-Speaker-00FF41?style=for-the-badge&logo=microphone&logoColor=black" alt="Speaker">
-<br><b>Thought Leadership</b>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Mentoring-Active-FF6B00?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentoring">
-<br><b>Knowledge Transfer</b>
-</td>
-</tr>
-</table>
-
 ### **🏆 Professional Memberships & Industry Recognition**
 <p>
 <img src="https://img.shields.io/badge/ISACA-Active%20Member-FF0000?style=flat-square&logo=isaca&logoColor=white" alt="ISACA">
@@ -499,141 +470,15 @@
 <p>
 <a href="https://cyberlinksec.dev"><img src="https://img.shields.io/badge/CyberLink%20Security-cyberlinksec.dev-FF0000?style=flat-square&logo=security&logoColor=white" alt="CyberLink Security"></a>
 <a href="https://watchguard.dev"><img src="https://img.shields.io/badge/WatchGuard-watchguard.dev-0066CC?style=flat-square&logo=shield&logoColor=white" alt="WatchGuard"></a>
-<img src="https://img.shields.io/badge/SolMint-Web3%20Platform-9945FF?style=flat-square&logo=solana&logoColor=white" alt="SolMint">
+<img src="https://img.shields.io/badge/WEB3-solmint.dev-9945FF?style=flat-square&logo=solana&logoColor=white" alt="SolMint">
 </p>
 
 </div>
 
----
-
-## 🔍 **Advanced Security Research & Development Focus Areas**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### **🔬 Current Research Initiatives**
-```
-┌─────────────────────────────────────┐
-│ AI-Powered Threat Detection         │
-│ ├── Machine Learning Models: 8+     │
-│ ├── Neural Networks: Advanced       │
-│ └── Behavioral Analysis: Real-time  │
-│                                     │
-│ Blockchain Security Auditing        │
-│ ├── Smart Contract Analysis         │
-│ ├── DeFi Protocol Security          │
-│ └── Cryptocurrency Forensics        │
-│                                     │
-│ Marine Technology Security          │
-│ ├── Underwater Communications       │
-│ ├── Subsea Navigation Systems       │
-│ └── Maritime IoT Security           │
-└─────────────────────────────────────┘
-```
-
-</td>
-<td align="center" width="50%">
-
-### **🚀 Innovation Pipeline**
-```
-┌─────────────────────────────────────┐
-│ Zero Trust Implementation           │
-│ ├── Identity Verification: MFA      │
-│ ├── Network Segmentation: Advanced  │
-│ └── Continuous Monitoring: 24/7     │
-│                                     │
-│ Purple Team Operations              │
-│ ├── Red Team Tactics: Offensive     │
-│ ├── Blue Team Defense: Reactive     │
-│ └── Threat Simulation: Realistic    │
-│                                     │
-│ Cloud-Native Security               │
-│ ├── Container Security: K8s         │
-│ ├── Serverless Protection: Lambda   │
-│ └── Multi-Cloud Strategy: Hybrid    │
-└─────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌟 **Technology Stack Visualization & Architecture Diagrams**
-
-<div align="center">
-
-### **🏗️ Full-Stack Architecture Overview**
-
-```mermaid
-graph TB
-    A[Frontend Layer] --> B[React + TypeScript]
-    A --> C[Responsive Design]
-    
-    D[Backend Services] --> E[Node.js + Express]
-    D --> F[Python Flask/Django]
-    D --> G[C# .NET Core]
-    
-    H[Database Layer] --> I[PostgreSQL]
-    H --> J[MongoDB]
-    H --> K[MySQL]
-    
-    L[Cloud Infrastructure] --> M[Google Cloud Platform]
-    L --> N[Microsoft Azure]
-    L --> O[Render.com]
-    
-    P[Security Layer] --> Q[Zero Trust Architecture]
-    P --> R[End-to-End Encryption]
-    P --> S[Multi-Factor Authentication]
-    
-    T[Blockchain Layer] --> U[Solana Network]
-    T --> V[Smart Contracts]
-    T --> W[Web3 Integration]
-    
-    X[AI/ML Layer] --> Y[Google AI Pro]
-    X --> Z[Anthropic Claude]
-    X --> AA[Custom ML Models]
-```
-
-### **🔐 Security Operations Center (SOC) Workflow**
-
-```mermaid
-flowchart LR
-    A[Threat Detection] --> B{Severity Assessment}
-    B -->|Critical| C[Immediate Response]
-    B -->|Medium| D[Investigation Queue]
-    B -->|Low| E[Automated Handling]
-    
-    C --> F[Incident Commander]
-    F --> G[Purple Team Activation]
-    G --> H[Threat Containment]
-    H --> I[Forensic Analysis]
-    I --> J[Recovery & Lessons Learned]
-    
-    D --> K[OSINT Research]
-    K --> L[Threat Intelligence]
-    L --> M[Risk Assessment]
-    M --> N[Mitigation Strategy]
-    
-    E --> O[Log Analysis]
-    O --> P[Pattern Recognition]
-    P --> Q[Automated Response]
-```
-
-</div>
-
----
 
 ## 🏊‍♂️ **Marine Technology & Underwater Systems Expertise**
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="50%">
@@ -652,9 +497,7 @@ flowchart LR
 </td>
 <td align="center" width="50%">
 
-### **⚓ Marine Technology Integration**
-<img src="https://img.shields.io/badge/Marine%20Electronics-Expert-FF6600?style=for-the-badge&logo=anchor&logoColor=white" alt="Marine Electronics">
-<br><br>
+
 
 **Technical Applications:**
 - **🛰️ Subsea Communications Security** - Encrypted underwater networks
@@ -798,25 +641,6 @@ flowchart LR
 </td>
 <td align="center" width="34%">
 
-### **🚀 Space Technology**
-<img src="https://img.shields.io/badge/Priority-Emerging-00FF41?style=for-the-badge&logo=rocket&logoColor=black" alt="Space Priority">
-
-**Satellite Security Systems**
-- Orbital cybersecurity protocols
-- Space-based communication security
-- Asteroid mining protection systems
-
-**Interplanetary Networks**
-- Deep space communication security
-- Mars colony cyber infrastructure
-- Space elevator security protocols
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <div align="center">
@@ -825,22 +649,16 @@ flowchart LR
 ⚡ Powered by Innovation • Secured by Experience • Driven by Excellence ⚡
 🌊 From Ocean Depths to Digital Heights • Exploring Every Frontier 🚀
 ```
-
-<br>
-
 <img src="https://img.shields.io/github/followers/bobvasic?label=Followers&style=for-the-badge&color=FF6B00" alt="Followers">
 <img src="https://img.shields.io/badge/Last%20Updated-2025--09--13-0066CC?style=for-the-badge&logo=calendar&logoColor=white" alt="Last Updated">
 
-<br><br>
-
-### **🎖️ Professional Recognition & Achievements**
 <img src="https://img.shields.io/badge/Years%20Experience-14%2B-gold?style=flat-square" alt="Experience">
 <img src="https://img.shields.io/badge/Certifications-15%2B-blue?style=flat-square" alt="Certifications">
 <img src="https://img.shields.io/badge/Languages-5%2B-green?style=flat-square" alt="Programming Languages">
 <img src="https://img.shields.io/badge/Countries-7-orange?style=flat-square" alt="Countries Worked">
-<img src="https://img.shields.io/badge/Diving%20Depth-40m-navy?style=flat-square" alt="Diving Depth">
+<img src="https://img.shields.io/badge/Diving%20Depth-64m-navy?style=flat-square" alt="Diving Depth">
 
-<br><br>
+---
 
 **🚀 Ready to Collaborate on Next-Generation Security Solutions**
 **🤝 Open for Strategic Partnerships & Innovation Projects**
