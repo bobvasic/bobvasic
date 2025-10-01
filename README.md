@@ -1,6 +1,6 @@
 
 <div align="center">
-
+<a href="https://dly.to/msqSjM4EEPW"><img src="https://api.daily.dev/devcards/v2/gbJvZUKq1K1sGT3uYtaUP.png?type=wide&r=32z" width="652" alt="Bob's Dev Card"/></a>
 <h1 align="center">🔐 Digital Security Innovator & Web3 Pioneer</h1>
 
 <p align="center">
