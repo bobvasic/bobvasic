@@ -1,10 +1,15 @@
 
 <div align="center">
 <a href="https://dly.to/msqSjM4EEPW"><img src="https://api.daily.dev/devcards/v2/gbJvZUKq1K1sGT3uYtaUP.png?type=wide&r=32z" width="652" alt="Bob's Dev Card"/></a>
-<h1 align="center">🔐 Digital Security Innovator & Web3 Pioneer</h1>
+<h1 align="center">🔐 • Cyber Security Consultant • Offensive Security Specialist • Sofware Solutions Architect • Accellerating Promising Startups & People • Stress & Rescue Master Diver • Human before anything else • </h1>
 
 <p align="center">
-  <strong>Cybersecurity Expert | Blockchain Architect | AI Researcher | Enterprise Security Leader</strong>
+  <strong>
+    <p align="center">
+    <sub>© 2025 Bob Vasic</sub>
+    </p> 
+  Blockchain, AI & LLM Researcher | Enterprise Open-Minded Security Leader | Open Source Community Supporter
+  </strong>
 </p>
 
 <p align="center">
@@ -515,89 +520,6 @@
 *The intersection of cybersecurity expertise with professional diving certifications creates a unique specialization in marine technology security, underwater communications systems, and maritime IoT protection - a niche but critical field in modern naval and commercial maritime operations.*
 
 </div>
-
----
-
-## 📊 **Professional Network Analytics & Community Impact**
-
-<div align="center">
-
-### **🌐 Global Professional Reach**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/LinkedIn-500%2B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connections">
-<br><b>Professional Network</b><br>
-<sub>Cybersecurity & Tech Leaders</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Countries-7%20Active-00FF41?style=for-the-badge&logo=globe&logoColor=black" alt="Active Countries">
-<br><b>International Presence</b><br>
-<sub>Multi-Continental Operations</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Clients-75%2B-FF6B00?style=for-the-badge&logo=users&logoColor=white" alt="Enterprise Clients">
-<br><b>Enterprise Clients</b><br>
-<sub>Fortune 500 & Startups</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Projects-100%2B-9945FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Completed Projects">
-<br><b>Completed Projects</b><br>
-<sub>Security & Development</sub>
-</td>
-</tr>
-</table>
-
-### **🎯 Industry Impact Metrics & Quantitative Performance Analysis**
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-#### **🔐 Security Operations Excellence**
-```
-┌─────────────────────────────────────────┐
-│ Security Incidents Prevented:    25+    │
-│ Enterprise Systems Secured:      4+     │
-│ Vulnerability Assessments:       120+   │
-│ Training Sessions Delivered:     150+   │
-└─────────────────────────────────────────┘
-```
-
-</td>
-<td align="center" width="50%">
-
-#### **🚀 Innovation & Development Metrics**
-```
-┌─────────────────────────────────────────┐
-│ Web3 Tokens Deployed:           20+     │
-│ AI Models Implemented:          2+      │
-│ Open Source Contributions:      5+      │
-│ Conference Presentations:       4       │
-└─────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-#### **📊 Comprehensive Performance Analysis Framework**
-
-**Security Impact Assessment Methodology:**
-- **Incident Prevention Efficacy**: 25+ critical security breaches mitigated through proactive threat detection algorithms and zero-trust implementation strategies
-- **Enterprise System Hardening**: 4+ large-scale organizational infrastructures fortified with advanced Purple Team methodologies and continuous monitoring protocols
-- **Vulnerability Analysis Coverage**: 120+ comprehensive security assessments utilizing automated scanning, manual penetration testing, and OSINT reconnaissance techniques
-- **Knowledge Transfer Operations**: 150+ specialized training sessions covering advanced cybersecurity methodologies, blockchain forensics, and AI-driven threat intelligence
-
-**Innovation Pipeline Performance Metrics:**
-- **Web3 Deployment Efficiency**: 20+ professional-grade SPL tokens successfully launched on Solana blockchain through SolMint platform architecture
-- **Machine Learning Implementation**: 2+ specialized AI models deployed for cybersecurity threat detection and behavioral analysis systems
-- **Open Source Community Contributions**: 5+ strategic contributions to critical security and blockchain development repositories
-- **Thought Leadership Presentations**: 4 technical conference presentations covering advanced cybersecurity architectures and Web3 innovation frameworks
-
-</div>
-
 ---
 
 ## 🚀 **Future Technology Roadmap & Vision**
@@ -662,13 +584,12 @@
 ---
 
 **🚀 Ready to Collaborate on Next-Generation Security Solutions**
-**🤝 Open for Strategic Partnerships & Innovation Projects**
-**🌊 Available for Marine Technology Consulting**
+**🤝 Open for Strategic Partnerships & Innovation Projects*
 
 </div>
 
 ---
 
 <p align="center">
-<sub>© 2025 Bob Vasic • Digital Security Innovator • Marine Technology Expert • All Rights Reserved</sub>
+<sub>© 2025 Bob Vasic • Cyber Security Consultant • Offensive Security Specialitst • Accellerating Promising Startups & People • Stress & Rescue Master Diver • Human before anything else • All Rights Reserved</sub>
 </p>
