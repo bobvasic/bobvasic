@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://dly.to/msqSjM4EEPW"><img src="https://api.daily.dev/devcards/v2/gbJvZUKq1K1sGT3uYtaUP.png?type=wide&r=32z" width="652" alt="Bob's Dev Card"/></a>
-<h1 align="center">🔐 • Cyber Security Consultant • Offensive Security Specialist • Sofware Solutions Architect • Accellerating Promising Startups & People • Stress & Rescue Master Diver • Human before anything else • </h1>
+<h1 align="center">🔐 • Cyber Security Consultant • Offensive Security Specialist • Sofware Solutions Architect • Accellerating Promising Startups & People • OSINT Analyst • Stress & Rescue Master Diver • Traveler • Human before anything else • </h1>
 
 <p align="center">
   <strong>
