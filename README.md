@@ -1,32 +1,6 @@
 
 <div align="center">
 <a href="https://dly.to/msqSjM4EEPW"><img src="https://api.daily.dev/devcards/v2/gbJvZUKq1K1sGT3uYtaUP.png?type=wide&r=32z" width="652" alt="Bob's Dev Card"/></a>
-<h1 align="center">🔐 • Cyber Security Consultant • Offensive Security Specialist • Sofware Solutions Architect • Accellerating Promising Startups & People • OSINT Analyst • Stress & Rescue Master Diver • Traveler • Human before anything else • </h1>
-
-<p align="center">
-  <strong>
-    <p align="center">
-    <sub>© 2025 Bob Vasic</sub>
-    </p> 
-  Blockchain, AI & LLM Researcher | Enterprise Open-Minded Security Leader | Open Source Community Supporter
-  </strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Security%20Clearance-Enterprise-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Security Clearance">
-  <img src="https://img.shields.io/badge/Experience-14%2B%20Years-00FF41?style=for-the-badge&logo=clock&logoColor=black" alt="Experience">
-  <img src="https://img.shields.io/badge/Web3-Solana%20Expert-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Web3">
-  <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI">
-</p>
-
-<p align="center">
-  <a href="https://bojanvasic.dev"><img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=00FF41&up_message=online&url=https%3A%2F%2Fbojanvasic.dev&style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
-  <a href="https://g.dev/bojanvasic"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"></a>
-  <a href="https://linkedin.com/in/bobvasic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:vasicb@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
-</p>
-
----
 
 ## 📈 **GitHub Analytics Dashboard & Development Metrics**
 
@@ -59,6 +33,33 @@
 ```
 
 </div>
+
+---
+
+<h1 align="center">🔐 • Cyber Security Consultant • Offensive Security Specialist • Sofware Solutions Architect • Accellerating Promising Startups & People • OSINT Analyst • Stress & Rescue Master Diver • Traveler • Human before anything else • </h1>
+
+<p align="center">
+  <strong>
+    <p align="center">
+    <sub>© 2025 Bob Vasic</sub>
+    </p> 
+  Blockchain, AI & LLM Researcher | Enterprise Open-Minded Security Leader | Open Source Community Supporter
+  </strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security%20Clearance-Enterprise-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Security Clearance">
+  <img src="https://img.shields.io/badge/Experience-14%2B%20Years-00FF41?style=for-the-badge&logo=clock&logoColor=black" alt="Experience">
+  <img src="https://img.shields.io/badge/Web3-Solana%20Expert-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Web3">
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI">
+</p>
+
+<p align="center">
+  <a href="https://bojanvasic.dev"><img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=00FF41&up_message=online&url=https%3A%2F%2Fbojanvasic.dev&style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
+  <a href="https://g.dev/bojanvasic"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"></a>
+  <a href="https://linkedin.com/in/bobvasic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vasicb@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
+</p>
 
 ---
 
