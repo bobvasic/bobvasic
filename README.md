@@ -1,8 +1,5 @@
 
 <div align="center">
-<a href="https://dly.to/msqSjM4EEPW"><img src="https://api.daily.dev/devcards/v2/gbJvZUKq1K1sGT3uYtaUP.png?type=wide&r=32z" width="652" alt="Bob's Dev Card"/></a>
-
-## 📈 **GitHub Analytics Dashboard & Development Metrics**
 
 <div align="center">
 
@@ -14,12 +11,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobvasic&theme=radical&background=0d1117&stroke=30363d&ring=00FF41&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff"/>
 
 <br><br>
-
-### **🔄 Development Activity Heatmap**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobvasic&theme=react-dark&bg_color=0d1117&color=00FF41&line=FF6B00&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
 
 </div>
 
+<a href="https://dly.to/msqSjM4EEPW"><img src="https://api.daily.dev/devcards/v2/gbJvZUKq1K1sGT3uYtaUP.png?type=wide&r=32z" width="652" alt="Bob's Dev Card"/></a>
 ---
 
 <br>
