@@ -1,8 +1,6 @@
 <div align="center">
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobvasic&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&icon_color=FF6B00&border_color=30363d"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobvasic&layout=compact&langs_count=12&theme=radical&bg_color=0d1117&title_color=00FF41&text_color=ffffff&border_color=30363d"/>
 
 <br><br>
