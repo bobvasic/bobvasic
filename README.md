@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00FF41,100:9945FF&height=180&section=header&text=Bob%20Vasic&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=AI-Native%20CTO%20%7C%20Security%20Architect%20%7C%20Founder-Operator&descSize=15&descAlignY=56" alt="Bob Vasic - AI-Native CTO | Security Architect | Founder-Operator" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:FF2A2A,100:FF6B00&height=180&section=header&text=Bob%20Vasic&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=AI-Native%20CTO%20%7C%20Security%20Architect%20%7C%20Founder-Operator&descSize=15&descAlignY=56" alt="Bob Vasic - AI-Native CTO | Security Architect | Founder-Operator" />
 
 <h3>Production-grade software engineering, security architecture, and AI-native systems execution.</h3>
 
@@ -29,16 +29,20 @@
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobvasic&theme=github_dark" alt="GitHub profile summary" />
+
+<br><br>
+
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bobvasic&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00FF41&text_color=ffffff&icon_color=FF6B00" alt="GitHub contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bobvasic&theme=github_dark" alt="GitHub profile stats" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobvasic&theme=radical&background=0d1117&hide_border=true&stroke=30363d&ring=00FF41&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=bobvasic&theme=dark&hide_border=true" alt="GitHub contribution streak" />
 
 </td>
 </tr>
@@ -171,6 +175,6 @@ I am open to high-priority engineering, security architecture, Solana/onchain in
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,50:00FF41,100:0D1117&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:FF2A2A,100:FF6B00&height=100&section=footer" alt="Footer" />
 
 </div>
