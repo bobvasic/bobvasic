@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,38:0D1117,39:FF2A2A,68:FF2A2A,69:FF6B00,100:FF6B00&height=190&section=header&text=Bob%20Vasic&fontColor=FFFFFF&fontSize=48&fontAlignY=34&desc=AI-Native%20CTO%20%7C%20Security%20Architect%20%7C%20Founder-Operator&descColor=FFFFFF&descSize=15&descAlignY=57" alt="Bob Vasic - AI-Native CTO | Security Architect | Founder-Operator" />
+<p align="center">
+  <a href="https://praetores.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7a0710,100:e10600&height=210&section=header&text=Bob%20Vasic&fontColor=ffffff&fontSize=78&fontAlignY=38&desc=AI-Native%20CTO%20%7C%20Security%20Architect%20%7C%20Founder-Operator&descSize=18&descAlignY=62&animation=fadeIn" alt="Bob%20Vasic" />
+  </a>
+</p>
 
 <h3>Production-grade software engineering, security architecture, and AI-native systems execution.</h3>
 
