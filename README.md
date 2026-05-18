@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://praetores.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7a0710,100:e10600&height=210&section=header&text=Bob%20Vasic&fontColor=ffffff&fontSize=78&fontAlignY=38&desc=AI-Native%20CTO%20%7C%20Security%20Architect%20%7C%20Founder-Operator&descSize=18&descAlignY=62&animation=fadeIn" alt="Bob%20Vasic" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7a0710,100:e10600&height=210&section=header&text=Bob%20Vasic&fontColor=ffffff&fontSize=78&fontAlignY=38&desc=Founder%20CTO%20at%20RaptorLabs.dev%20%7C%20Security%20Architect%20%7C%20Founder-Operator&descSize=18&descAlignY=62&animation=fadeIn" alt="Bob%20Vasic" />
   </a>
 </p>
 
