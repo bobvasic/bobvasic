@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3>Production-grade software engineering, security architecture, and AI-native systems execution.</h3>
+<h3>Enterprise production-grade software engineering, security architecture, and AI-native systems execution.</h3>
 
 <p>
   <a href="https://raptorlabs.dev">
