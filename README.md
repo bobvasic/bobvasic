@@ -60,23 +60,6 @@
 
 ---
 
-## Language & Engineering Footprint
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bobvasic&theme=github_dark" alt="Repositories per language" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bobvasic&theme=github_dark" alt="Most commit language" />
-</td>
-</tr>
-</table>
-
-</div>
-
 ### Methods in Practice
 
 <div align="center">
